@@ -6,4 +6,4 @@
 *.in
 
 # VS Code
-.vscode
+.vscode/*
